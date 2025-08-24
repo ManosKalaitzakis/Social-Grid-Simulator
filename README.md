@@ -11,7 +11,11 @@ Over long runs, the system exhibits **population booms, collapses, and eventual 
 
 ## 🎥 Preview Video
 
-[![Watch the demo](https://img.youtube.com/vi/gadEXRTXBAU/hqdefault.jpg)](https://youtu.be/gadEXRTXBAU)
+<p align="center">
+  <a href="https://youtu.be/gadEXRTXBAU" target="_blank">
+    <img src="https://img.youtube.com/vi/gadEXRTXBAU/hqdefault.jpg" alt="Watch the demo" width="640">
+  </a>
+</p>
 
 The video shows:
 - Agents moving between **Homes**, **Work**, and the **Café**
